@@ -26,3 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MiniGames/AR/Scenes/Penitenciaria_museo.unity
     guid: 88761b8ce844e4cbe99234b9f737f228
+  - enabled: 1
+    path: Assets/MiniGames/AR/Scenes/Mapa.unity
+    guid: eb9b9150e1fa8834c8a3ff6bdcb77d43
+  m_configObjects: {}

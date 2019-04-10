@@ -49,6 +49,12 @@ public class GameControl : MonoBehaviour {
 		//VuforiaBehaviour.Instance.enabled = myScenes[sceneNumber].requireVuforia;
     }
 
+    public void ChangeSceneByName(string sceneName) {
+        Debug.Log("Cambio de escena");
+        SceneManager.LoadScene(sceneName);
+		//VuforiaBehaviour.Instance.enabled = myScenes[sceneNumber].requireVuforia;
+    }
+
     public void WriteData() {
 
     }

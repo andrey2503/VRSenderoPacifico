@@ -18,4 +18,8 @@ public class Utilities : MonoBehaviour {
     public void ChangeScene(int scene) {
         GameControl.instance.ChangeScene(scene);
     }
+
+	public void ChangeSceneByName(string scene) {
+        GameControl.instance.ChangeSceneByName(scene);
+    }
 }

@@ -3,6 +3,24 @@ guid: 55d82d1593e3448c6a9364a1c7ff612f
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
+    100000: body_tape
+    100002: //RootNode
+    100004: directionalLight1
+    100006: transp
+    400000: body_tape
+    400002: //RootNode
+    400004: directionalLight1
+    400006: transp
+    2100000: transp_PBS
+    2100002: cas_body_PBS
+    2300000: body_tape
+    2300002: transp
+    3300000: body_tape
+    3300002: transp
+    4300000: transp
+    4300002: body_tape
+    9500000: //RootNode
+    10800000: directionalLight1
     2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
@@ -56,7 +74,7 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 1
     previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -76,7 +94,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
