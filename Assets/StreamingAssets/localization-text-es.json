@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "key": "map",
+            "value": "Mapa"    
+        },
+        {
+            "key": "go_back",
+            "value": "Regresar"    
+        }
+    ]
+}
