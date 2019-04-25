@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/MiniGames/AR/Scenes/Penitenciaria.unity
     guid: 3b301bd63581f3743addf082f5ec091a
   - enabled: 1
-    path: Assets/MiniGames/AR/Scenes/Penitenciaria_AR_V2.unity
-    guid: 0ef9bc4caa6904960904c85f8476ff9c
+    path: Assets/MiniGames/AR/Scenes/Penitenciaria_AR_V3.unity
+    guid: 4dd5a2edd6d8c97468280adb70a027e4
   - enabled: 1
     path: Assets/MiniGames/AR/Scenes/Penitenciaria_instrucciones.unity
     guid: 42ae7469f0f8e4bb386a01aeab7f76f5
