@@ -2113,7 +2113,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Museo Penitenciario
+  m_Text: Sendero del pacifico
 --- !u!222 &1938040796
 CanvasRenderer:
   m_ObjectHideFlags: 0
