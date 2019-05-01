@@ -22,4 +22,5 @@ public class Utilities : MonoBehaviour {
 	public void ChangeSceneByName(string scene) {
         GameControl.instance.ChangeSceneByName(scene);
     }
+
 }
