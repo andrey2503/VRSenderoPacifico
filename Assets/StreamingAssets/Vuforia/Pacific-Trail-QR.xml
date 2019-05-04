@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="10_QRCode_1556941595699" size="300.000000 300.000000" />
+    <ImageTarget name="9_QRCode_1556941550970" size="300.000000 300.000000" />
+    <ImageTarget name="8_QRCode_1556941506886" size="300.000000 300.000000" />
+    <ImageTarget name="7_QRCode_1556941461299" size="300.000000 300.000000" />
+    <ImageTarget name="6_QRCode_1556941411395" size="300.000000 300.000000" />
+    <ImageTarget name="5_QRCode_1556941365211" size="300.000000 300.000000" />
+    <ImageTarget name="4_QRCode_1556941290514" size="300.000000 300.000000" />
+    <ImageTarget name="3_QRCode_1556941241284" size="300.000000 300.000000" />
+    <ImageTarget name="2_QRCode_1556941120775" size="300.000000 300.000000" />
+    <ImageTarget name="1_QRCode_1556940862154" size="300.000000 300.000000" />
+  </Tracking>
+</QCARConfig>
