@@ -28,15 +28,28 @@ public class LocalizationManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
 
-    void Start () 
+    void Start()
     {
-        LoadLocalizedText("localization-text-es.json");
+        Debug.Log(">>>>>>>>>>>>>>>>>>>>>>>> localization_text_es <<<<<<<<<<<<<<<<<<<<<");
+        SetLanguage("localization_text_es.json");
     }
+
+    public void SetLanguage (string fileName)
+	{
+		if (Application.platform == RuntimePlatform.WindowsEditor)
+			LoadLocalizedText (fileName);
+		else if (Application.platform == RuntimePlatform.OSXEditor)
+			LoadLocalizedText (fileName);
+		else if (Application.platform == RuntimePlatform.Android)
+			StartCoroutine ("LoadLocalizedTextOnAndroid", fileName);
+	}
 
     public void LoadLocalizedText(string fileName)
     {
         localizedText = new Dictionary<string, string>();
-        string filePath = Path.Combine(Application.streamingAssetsPath, fileName);
+
+        string filePath = Path.Combine (Application.streamingAssetsPath, fileName);
+
 
         if (File.Exists(filePath))
         {
@@ -49,7 +62,7 @@ public class LocalizationManager : MonoBehaviour
             }
 
             Debug.Log("Data loaded, dictionary contains: " + localizedText.Count + " entries");
-            SceneManager.LoadScene ("Penitenciaria");
+            SceneManager.LoadScene("Penitenciaria");
         }
         else
         {
@@ -58,6 +71,33 @@ public class LocalizationManager : MonoBehaviour
 
         isReady = true;
     }
+
+    IEnumerator LoadLocalizedTextOnAndroid (string fileName)
+	{
+		localizedText = new Dictionary<string, string> ();
+		string filePath;// = Path.Combine(Application.streamingAssetsPath, fileName);
+		filePath = Path.Combine (Application.streamingAssetsPath + "/", fileName);
+		string dataAsJson;
+		if (filePath.Contains ("://") || filePath.Contains (":///")) {
+			//debugText.text += System.Environment.NewLine + filePath;
+			Debug.Log ("UNITY:" + System.Environment.NewLine + filePath);
+			UnityEngine.Networking.UnityWebRequest www = UnityEngine.Networking.UnityWebRequest.Get (filePath);
+			yield return www.Send ();
+			dataAsJson = www.downloadHandler.text;
+		} else {
+			dataAsJson = File.ReadAllText (filePath);
+		}
+		LocalizationData loadedData = JsonUtility.FromJson<LocalizationData> (dataAsJson);
+
+		for (int i = 0; i < loadedData.items.Length; i++) {
+			localizedText.Add (loadedData.items [i].key, loadedData.items [i].value);
+			Debug.Log ("KEYS:" + loadedData.items [i].key);
+		}
+
+        SceneManager.LoadScene("Penitenciaria");
+
+		isReady = true;
+	}
 
 
     public string GetLocalizedValue(string key)

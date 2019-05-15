@@ -413,7 +413,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 992e6936cffe6534cb93c7111a63e5d9, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -462,7 +462,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 221.01886}
+  m_AnchoredPosition: {x: 0, y: 221.0188}
   m_SizeDelta: {x: 1131, y: 665}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &344093972
@@ -616,7 +616,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 0cc692845526b014a884cdbb17aad446, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -730,7 +730,7 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 737274f7c6dbc7041a7d483e16a830e1, type: 3}
     m_FontSize: 39
     m_FontStyle: 0
     m_BestFit: 0
@@ -741,7 +741,7 @@ MonoBehaviour:
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 1
+    m_LineSpacing: 0
   m_Text: Regresar
 --- !u!222 &481300954
 CanvasRenderer:
@@ -953,7 +953,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -142.02277}
+  m_AnchoredPosition: {x: 0, y: -142.0227}
   m_SizeDelta: {x: 0, y: 284}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1112806974
@@ -1118,6 +1118,7 @@ GameObject:
   - component: {fileID: 1199318229}
   - component: {fileID: 1199318231}
   - component: {fileID: 1199318230}
+  - component: {fileID: 1199318232}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -1141,7 +1142,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -7}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1199318230
@@ -1165,18 +1166,18 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 50f26ba40f1084ab58810bff379205ff, type: 3}
-    m_FontSize: 42
+    m_Font: {fileID: 12800000, guid: 737274f7c6dbc7041a7d483e16a830e1, type: 3}
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 3
     m_MaxSize: 57
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 1
+    m_LineSpacing: 0
   m_Text: Regresar
 --- !u!222 &1199318231
 CanvasRenderer:
@@ -1186,6 +1187,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1199318228}
   m_CullTransparentMesh: 0
+--- !u!114 &1199318232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1199318228}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 918c6b286e3c44e47a216267156caff9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: go_back
 --- !u!1 &1275478379
 GameObject:
   m_ObjectHideFlags: 0
@@ -1460,7 +1474,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 0cc692845526b014a884cdbb17aad446, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -1486,6 +1500,7 @@ GameObject:
   - component: {fileID: 1465176881}
   - component: {fileID: 1465176883}
   - component: {fileID: 1465176882}
+  - component: {fileID: 1465176884}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -1509,7 +1524,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -7}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1465176882
@@ -1533,18 +1548,18 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 50f26ba40f1084ab58810bff379205ff, type: 3}
-    m_FontSize: 42
+    m_Font: {fileID: 12800000, guid: 737274f7c6dbc7041a7d483e16a830e1, type: 3}
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 3
     m_MaxSize: 57
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 1
+    m_LineSpacing: 0
   m_Text: Marcadores AR
 --- !u!222 &1465176883
 CanvasRenderer:
@@ -1554,6 +1569,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1465176880}
   m_CullTransparentMesh: 0
+--- !u!114 &1465176884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1465176880}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 918c6b286e3c44e47a216267156caff9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: ar_markets
 --- !u!1 &1503868312
 GameObject:
   m_ObjectHideFlags: 0
@@ -1743,7 +1771,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 0cc692845526b014a884cdbb17aad446, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -1872,7 +1900,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_Sprite: {fileID: 21300000, guid: 0cc692845526b014a884cdbb17aad446, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -2054,6 +2082,7 @@ GameObject:
   - component: {fileID: 1938040794}
   - component: {fileID: 1938040796}
   - component: {fileID: 1938040795}
+  - component: {fileID: 1938040797}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -2077,7 +2106,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -7}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1938040795
@@ -2101,18 +2130,18 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 50f26ba40f1084ab58810bff379205ff, type: 3}
-    m_FontSize: 42
+    m_Font: {fileID: 12800000, guid: 737274f7c6dbc7041a7d483e16a830e1, type: 3}
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 3
     m_MaxSize: 57
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 1
+    m_LineSpacing: 0
   m_Text: Sendero del pacifico
 --- !u!222 &1938040796
 CanvasRenderer:
@@ -2122,6 +2151,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1938040793}
   m_CullTransparentMesh: 0
+--- !u!114 &1938040797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1938040793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 918c6b286e3c44e47a216267156caff9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: pacific_trail
 --- !u!1 &1980999356
 GameObject:
   m_ObjectHideFlags: 0
@@ -2133,6 +2175,7 @@ GameObject:
   - component: {fileID: 1980999357}
   - component: {fileID: 1980999359}
   - component: {fileID: 1980999358}
+  - component: {fileID: 1980999360}
   m_Layer: 5
   m_Name: Text
   m_TagString: Untagged
@@ -2156,7 +2199,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -7}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1980999358
@@ -2180,18 +2223,18 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 50f26ba40f1084ab58810bff379205ff, type: 3}
-    m_FontSize: 42
+    m_Font: {fileID: 12800000, guid: 737274f7c6dbc7041a7d483e16a830e1, type: 3}
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 3
     m_MaxSize: 57
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 1
+    m_LineSpacing: 0
   m_Text: Recursos Online
 --- !u!222 &1980999359
 CanvasRenderer:
@@ -2201,6 +2244,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1980999356}
   m_CullTransparentMesh: 0
+--- !u!114 &1980999360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1980999356}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 918c6b286e3c44e47a216267156caff9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: online_resources
 --- !u!1 &2065761094
 GameObject:
   m_ObjectHideFlags: 0
@@ -2235,7 +2291,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -7}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2065761096
@@ -2259,18 +2315,18 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 50f26ba40f1084ab58810bff379205ff, type: 3}
-    m_FontSize: 42
+    m_Font: {fileID: 12800000, guid: 737274f7c6dbc7041a7d483e16a830e1, type: 3}
+    m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 10
+    m_MinSize: 3
     m_MaxSize: 57
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
-    m_LineSpacing: 1
+    m_LineSpacing: 0
   m_Text: Tutorial
 --- !u!222 &2065761097
 CanvasRenderer:

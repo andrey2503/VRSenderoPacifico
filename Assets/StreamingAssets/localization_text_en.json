@@ -7,6 +7,42 @@
         {
             "key": "go_back",
             "value": "Go back"    
+        },
+        {
+            "key": "trail_items",
+            "value": "Trail items"
+        },
+        {
+            "key": "instructions",
+            "value": "Instructions"
+        },
+        {
+            "key": "english",
+            "value": "English"
+        },
+        {
+            "key": "spanish",
+            "value": "Spanish"
+        },
+        {
+            "key": "augmented_reality",
+            "value": "Augmented Reality"
+        },
+        {
+            "key": "ar_markets",
+            "value": "AR Markets"
+        },
+        {
+            "key": "online_resources",
+            "value": "Online Resources"
+        },
+        {
+            "key": "pacific_trail",
+            "value": "Pacific Trail"
+        },
+        {
+            "key": "seek_for_ar_markets_on_the_trail",
+            "value": "Seek for AR markets on the trail"
         }
     ]
 }

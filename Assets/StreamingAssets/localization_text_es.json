@@ -7,6 +7,42 @@
         {
             "key": "go_back",
             "value": "Regresar"    
+        },
+        {
+            "key": "trail_items",
+            "value": "Colección"
+        },
+        {
+            "key": "instructions",
+            "value": "Instructiones"
+        },
+        {
+            "key": "english",
+            "value": "Ingles"
+        },
+        {
+            "key": "spanish",
+            "value": "Español"
+        },
+        {
+            "key": "augmented_reality",
+            "value": "Realidad Aumentada"
+        },
+        {
+            "key": "ar_markets",
+            "value": "Marcadores AR"
+        },
+        {
+            "key": "online_resources",
+            "value": "Recursos en línea"
+        },
+        {
+            "key": "pacific_trail",
+            "value": "Sendero Pacífico"
+        },
+        {
+            "key": "seek_for_ar_markets_on_the_trail",
+            "value": "Busca los marcadores en el sendero"
         }
     ]
 }
