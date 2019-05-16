@@ -43,6 +43,30 @@
         {
             "key": "seek_for_ar_markets_on_the_trail",
             "value": "Busca los marcadores en el sendero"
+        },
+        {
+            "key": "alcon_text_1",
+            "value": "Descripción: Cabeza, cuello y partes inferiores color crema-blanco, antifaz conspicuo conectado a través de la nuca. Coronilla finamente salpicada de negro, dorso y alas color chocolate-marrón, remiges color canela-rufo, en la base con rayas oscuras."
+        },
+        {
+            "key": "alcon_text_2",
+            "value": "Comportamiento: A este halcón se le ve posado en una percha por largos períodos con la cabeza ligeramente agachada."
+        },
+        {
+            "key": "alcon_text_3",
+            "value": "Dieta: Se alimenta casi exclusivamente de serpientes, tanto terrestres como arbóreas, incluyendo grandes y venenosas, aunque más comúnmente caza las inofensivas"
+        },
+        {
+            "key": "pizote_text_1",
+            "value": "Descripción: Longitud entre los 80 y 130 cm (más de la mitad pertenece a la cola), el color de su pelaje es marrón grisáceo en su mayor parte, posee manchas blancas arriba y abajo de los ojos así como también en las mejillas. Posee una nariz larga, puntiaguda y flexible, sus patas delantera son más cortas que las traseras y su cola permanece erguida."
+        },
+        {
+            "key": "pizote_text_2",
+            "value": "Comportamiento: Principalmente diurno, por las noches suelen descansar en la copa de los árboles lejos del alcance de depredadores. Los machos suelen vivir de manera solitaria marcando su territorio y luchan si se encuentran entre ellos, mientras la hembras viven en grupos de entre 4 a 20 individuos junto a las crías."
+        },
+        {
+            "key": "pizote_text_3",
+            "value": "Dieta: Estos animales son omnívoros, pero se alimentan principalmente de insectos, pero también pueden comer frutas y algunos vertebrados pequeños."
         }
     ]
 }
