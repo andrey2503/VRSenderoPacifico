@@ -2,47 +2,51 @@
     "items": [
         {
             "key": "map",
-            "value": "Mapa"    
+            "value": "MAPA"    
         },
         {
             "key": "go_back",
-            "value": "Regresar"    
+            "value": "REGRESAR"    
         },
         {
             "key": "trail_items",
-            "value": "Colección"
+            "value": "COLECCIÓN"
         },
         {
             "key": "instructions",
-            "value": "Instructiones"
+            "value": "INSTRUCCIONES"
         },
         {
             "key": "english",
-            "value": "Ingles"
+            "value": "INGLES"
         },
         {
             "key": "spanish",
-            "value": "Español"
+            "value": "ESPAÑOL"
         },
         {
             "key": "augmented_reality",
-            "value": "Realidad Aumentada"
+            "value": "REALIDAD A."
         },
         {
             "key": "ar_markets",
-            "value": "Marcadores AR"
+            "value": "MARCADORES AR"
         },
         {
             "key": "online_resources",
-            "value": "Recursos en línea"
+            "value": "RECURSOS EN LÍNEA"
         },
         {
             "key": "pacific_trail",
-            "value": "Sendero Pacífico"
+            "value": "SENDERO PÁCIFICO"
         },
         {
             "key": "seek_for_ar_markets_on_the_trail",
             "value": "Busca los marcadores en el sendero"
+        },
+        {
+            "key": "net_of_pacific_trail_CR",
+            "value": "La red de sendero Pacifico Costa Rica es una visión de vincular los bosques y las comunidades rurales a lo largo de la pendiente del Pacífico de Costa Rica. Se inicia en la región de Monteverde e incluirá una red de sistemas de senderos, cabañas, propiedades de conservación, las iniciativas de agricultura ecológica, energías alternativas y las aguas residuales de tratamiento y proyectos de conservación del agua."
         },
         {
             "key": "alcon_text_1",

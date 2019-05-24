@@ -2,47 +2,51 @@
     "items": [
         {
             "key": "map",
-            "value": "Map"    
+            "value": "MAP"    
         },
         {
             "key": "go_back",
-            "value": "Go back"    
+            "value": "GO BACK"    
         },
         {
             "key": "trail_items",
-            "value": "Trail items"
+            "value": "TRAIL ITEMS"
         },
         {
             "key": "instructions",
-            "value": "Instructions"
+            "value": "INSTRUCTIONS"
         },
         {
             "key": "english",
-            "value": "English"
+            "value": "ENGLISH"
         },
         {
             "key": "spanish",
-            "value": "Spanish"
+            "value": "SPANISH"
         },
         {
             "key": "augmented_reality",
-            "value": "Augmented Reality"
+            "value": "AR"
         },
         {
             "key": "ar_markets",
-            "value": "AR Markets"
+            "value": "AR MARKETS"
         },
         {
             "key": "online_resources",
-            "value": "Online Resources"
+            "value": "ONLINE RESOURCES"
         },
         {
             "key": "pacific_trail",
-            "value": "Pacific Trail"
+            "value": "PACIFIC TRAIL"
         },
         {
             "key": "seek_for_ar_markets_on_the_trail",
             "value": "Seek for AR markets on the trail"
+        },
+        {
+            "key": "net_of_pacific_trail_CR",
+            "value": "The Costa Rica Pacific Slope Pacific Slope Trail Network is a vision to link forests and rural communities along Costa Rica’s Pacific Slope. It begins in the famous Monteverde conservation region, and will encompass a network of trail systems, huts, conservation properties, ecological agriculture initiatives, alternative energy, and wastewater treatment and water conservation projects."
         },
         {
             "key": "alcon_text_1",

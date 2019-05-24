@@ -153,12 +153,12 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: org.itm.senderopacifico
+    Android: org.itm.pacific.trail
     iOS: org.cecocicultura.penitenciariaar
   buildNumber:
     iOS: 2
   AndroidBundleVersionCode: 10006
-  AndroidMinSdkVersion: 16
+  AndroidMinSdkVersion: 24
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   aotOptions: 
