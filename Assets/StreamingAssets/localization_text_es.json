@@ -71,6 +71,18 @@
         {
             "key": "pizote_text_3",
             "value": "Dieta: Estos animales son omnívoros, pero se alimentan principalmente de insectos, pero también pueden comer frutas y algunos vertebrados pequeños."
+        },
+        {
+            "key": "tijerilla_text_1",
+            "value": "Descripción: El gavilán tijerilla, es “Un rapaz elegante y de forma única, con largas y estrechas alas y una cola muy bifurcada” los colores de esta ave son negro y blanco, con tonos gris-azulados en la parte superior."
+        },
+        {
+            "key": "tijerilla_text_2",
+            "value": "Comportamiento: En cuanto a su comportamiento este es“usualmente visto en vuelo elevándose y deslizándose mientras tuerce su cola. Los aleteos son profundos y fluidos. Se encuentra en una diversidad de hábitats arbolados con preferencia por hábitats húmedos cerca de ríos y estanques."
+        },
+        {
+            "key": "tijerilla_text_3",
+            "value": "Dieta: Según Lemke, se sabe que el gavilán tijerilla hace sus presas insectos adultos, larvas de avispa, pequeños anfibios y reptiles."
         }
     ]
 }

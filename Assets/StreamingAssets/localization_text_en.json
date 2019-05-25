@@ -71,6 +71,18 @@
         {
             "key": "pizote_text_3",
             "value": "Diet: These animals are omnivores, but they feed mainly on insects. They can also eat fruits and some small vertebrates."
+        },
+        {
+            "key": "tijerilla_text_1",
+            "value": "Description: The Tailed Kite, is “An elegant and uniquely shaped raptor, with long and narrow wings and a very forked tail” the colors of this bird are black and white, with blue-gray shades on the top."
+        },
+        {
+            "key": "tijerilla_text_2",
+            "value": "Behavior: Regarding its behavior this is usually seen in flight rising and sliding while twisting its tail. The flapping is deep and fluid. It is found in a diversity of wooded habitats with preference for humid habitats near rivers and ponds."
+        },
+        {
+            "key": "tijerilla_text_3",
+            "value": "Diet: According to Lemke, it is known that the Tailed Kite makes its prey adult insects, wasp larvae, small amphibians and reptiles."
         }
     ]
 }
