@@ -83,6 +83,18 @@
         {
             "key": "tijerilla_text_3",
             "value": "Diet: According to Lemke, it is known that the Tailed Kite makes its prey adult insects, wasp larvae, small amphibians and reptiles."
+        },
+        {
+            "key": "black_vulture_text_1",
+            "value": "Description: Opaque black, short tail, heavy flight with short glides and strong wings. White patches at the base of primary remiges."
+        },
+        {
+            "key": "black_vulture_text_2",
+            "value": "Behavior: Generally associated with open and semi-open areas, being more numerous around the cities, mainly in landfills or sanitary landfills or sometimes on the edges of roads where garbage is thrown."
+        },
+        {
+            "key": "black_vulture_text_3",
+            "value": "Diet: It feeds on carcasses of animals that die from different infectious diseases, but also feeds on eggs and can even kill or injure young and defenseless animals."
         }
     ]
 }

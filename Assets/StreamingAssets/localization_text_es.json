@@ -83,6 +83,18 @@
         {
             "key": "tijerilla_text_3",
             "value": "Dieta: Según Lemke, se sabe que el gavilán tijerilla hace sus presas insectos adultos, larvas de avispa, pequeños anfibios y reptiles."
+        },
+        {
+            "key": "black_vulture_text_1",
+            "value": "Descripción: Negro opaco, cola corta, vuelo pesado con planeos cortos y aleteos fuertes. Parches blancos en la base de las remiges primarias."
+        },
+        {
+            "key": "black_vulture_text_2",
+            "value": "Comportamiento: Generalmente asociada a áreas abiertas y semiabiertas siendo más numerosa en los alrededores de las ciudades principalmente en basureros o rellenos sanitarios o en ocasiones en los bordes de carreteras en donde se arrojan basuras."
+        },
+        {
+            "key": "black_vulture_text_3",
+            "value": "Dieta: Se alimenta de carcasas de animales que mueren por diferentes enfermedades infecciosas, pero también se alimenta de huevos y puede llegar incluso a matar o herir animales jóvenes e indefensos."
         }
     ]
 }
