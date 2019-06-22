@@ -95,6 +95,30 @@
         {
             "key": "black_vulture_text_3",
             "value": "Dieta: Se alimenta de carcasas de animales que mueren por diferentes enfermedades infecciosas, pero también se alimenta de huevos y puede llegar incluso a matar o herir animales jóvenes e indefensos."
+        },
+        {
+            "key": "monkey_text_1",
+            "value": "Descripción: Pelaje mayormente negro con la cabeza, pecho y hombros de un color crema amarillento. La cara es de color rosado. La cola es prensil."
+        },
+        {
+            "key": "monkey_text_2",
+            "value": "Comportamiento: Este mono puede vivir en bandas desde pocos hasta unos 30 individuos. Se ha registrado que los monos carablanca pueden recorrer un área que varía entre 30 y 160 hectáreas."
+        },
+        {
+            "key": "monkey_text_3",
+            "value": "Dieta: Frugívoro, Insectívoro, Carnívoro, Granívoro/Semillero."
+        },
+        {
+            "key": "agouti_text_1",
+            "value": "Descripción: Roedor grande, con pelaje café anaranjado. Orejas desnudas rosadas, con los extremos redondeados. Las patas negruzcas, en las delanteras tienen 4 dedos y las patas traseras 3 dedos, con uñas."
+        },
+        {
+            "key": "agouti_text_2",
+            "value": "Comportamiento: Son diurnas. Forman parejas o solitarios. Se refugian en agujeros excavados en el suelo, debajo de troncos caídos o hendiduras entre piedras."
+        },
+        {
+            "key": "agouti_text_3",
+            "value": "Dieta: Se alimentan de materia vegetal (frutos, semillas), aunque muy raramente pueden intentar probar materia animal."
         }
     ]
 }

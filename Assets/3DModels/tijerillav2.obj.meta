@@ -1,15 +1,16 @@
 fileFormatVersion: 2
-guid: a2197dacff81e48499535ecba5a8362b
+guid: 620055c9a3b68964e9e5ffa65898da64
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2100000: Almaz
-    2100002: Earth
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Crystal
+    100000: initialShadingGroup_polySurface8
+    100002: //RootNode
+    400000: initialShadingGroup_polySurface8
+    400002: //RootNode
+    2100000: initialShadingGroup_polySurface8Mat
+    2300000: initialShadingGroup_polySurface8
+    3300000: initialShadingGroup_polySurface8
+    4300000: initialShadingGroup_polySurface8
   externalObjects: {}
   materials:
     importMaterials: 1

@@ -1,15 +1,28 @@
 fileFormatVersion: 2
-guid: 55de066662c692444affca6c04cec260
+guid: 578d2abcd9a710a4692e082ced729f5d
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2100000: Green_2
-    2100002: Trunk.001
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Fir-tree
+    100000: Guatusa1:ojos
+    100002: Guatusa1:pCube41
+    100004: Guatusa1:pSphere2
+    100006: //RootNode
+    400000: Guatusa1:ojos
+    400002: Guatusa1:pCube41
+    400004: Guatusa1:pSphere2
+    400006: //RootNode
+    2100000: Guatusa1_ojosMat
+    2100002: Guatusa1_pCube41Mat
+    2100004: Guatusa1_pSphere2Mat
+    2300000: Guatusa1:ojos
+    2300002: Guatusa1:pCube41
+    2300004: Guatusa1:pSphere2
+    3300000: Guatusa1:ojos
+    3300002: Guatusa1:pCube41
+    3300004: Guatusa1:pSphere2
+    4300000: Guatusa1:ojos
+    4300002: Guatusa1:pCube41
+    4300004: Guatusa1:pSphere2
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -66,7 +79,7 @@ ModelImporter:
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 0
+    normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0

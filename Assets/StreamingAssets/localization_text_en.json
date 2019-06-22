@@ -95,6 +95,30 @@
         {
             "key": "black_vulture_text_3",
             "value": "Diet: It feeds on carcasses of animals that die from different infectious diseases, but also feeds on eggs and can even kill or injure young and defenseless animals."
+        },
+        {
+            "key": "monkey_text_1",
+            "value": "Description: Mostly black coat with yellowish cream head, chest and shoulders. The face is pink. The tail is prehensile."
+        },
+        {
+            "key": "monkey_text_2",
+            "value": "Behavior: This monkey can live in bands from a few to about 30 individuals. It has been recorded that white-faced monkeys can cover an area that varies between 30 and 160 hectares."
+        },
+        {
+            "key": "monkey_text_3",
+            "value": "Diet: Frugivore, Insectivore, Carnivore, Granivore / Seedbed."
+        },
+        {
+            "key": "agouti_text_1",
+            "value": "Description: Large rodent, with orange brown fur. Pink bare ears, with rounded ends. The blackish legs, in the front have 4 fingers and the hind legs 3 fingers, with nails."
+        },
+        {
+            "key": "agouti_text_2",
+            "value": "Behavior: They are diurnal. They form couples or loners. They take refuge in holes dug in the ground, under fallen logs or cracks between stones."
+        },
+        {
+            "key": "agouti_text_3",
+            "value": "Diet: They eat plant matter (fruits, seeds), although they can eat small animals."
         }
     ]
 }
