@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: b378ebbf8ca7b674dac19b4d4123821c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _chest
+    100002: _face
+    100004: _head1
+    100006: _head2
+    100008: _neck
+    100010: _peak
+    100012: _sipne
+    100014: _spine2
+    100016: _spine3
+    100018: _tail
+    100020: _tail1
+    100022: _tail2
+    100024: _tail3
+    100026: _tail4
+    100028: ikHandle1
+    100030: ikHandle2
+    100032: ikHandle3
+    100034: ikHandle4
+    100036: ikHandle5
+    100038: L_finger1
+    100040: L_finger2
+    100042: L_finger3
+    100044: L_finger4
+    100046: L_foot
+    100048: L_knee
+    100050: L_leg
+    100052: L_wing
+    100054: L_wing1
+    100056: L_wing2
+    100058: L_wing3
+    100060: L_wing4
+    100062: R_finger1
+    100064: R_finger2
+    100066: R_finger3
+    100068: R_finger4
+    100070: R_foot
+    100072: R_knee
+    100074: R_leg
+    100076: R_wing
+    100078: R_wing1
+    100080: R_wing2
+    100082: R_wing3
+    100084: R_wing4
+    100086: tail5
+    100088: Zopilote_V1_Base:Zopilote:polySurface1
+    100090: //RootNode
+    400000: _chest
+    400002: _face
+    400004: _head1
+    400006: _head2
+    400008: _neck
+    400010: _peak
+    400012: _sipne
+    400014: _spine2
+    400016: _spine3
+    400018: _tail
+    400020: _tail1
+    400022: _tail2
+    400024: _tail3
+    400026: _tail4
+    400028: ikHandle1
+    400030: ikHandle2
+    400032: ikHandle3
+    400034: ikHandle4
+    400036: ikHandle5
+    400038: L_finger1
+    400040: L_finger2
+    400042: L_finger3
+    400044: L_finger4
+    400046: L_foot
+    400048: L_knee
+    400050: L_leg
+    400052: L_wing
+    400054: L_wing1
+    400056: L_wing2
+    400058: L_wing3
+    400060: L_wing4
+    400062: R_finger1
+    400064: R_finger2
+    400066: R_finger3
+    400068: R_finger4
+    400070: R_foot
+    400072: R_knee
+    400074: R_leg
+    400076: R_wing
+    400078: R_wing1
+    400080: R_wing2
+    400082: R_wing3
+    400084: R_wing4
+    400086: tail5
+    400088: Zopilote_V1_Base:Zopilote:polySurface1
+    400090: //RootNode
+    2100000: lambert1
+    4300000: Zopilote_V1_Base:Zopilote:polySurface1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Zopilote_V1_Base:Zopilote:polySurface1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
