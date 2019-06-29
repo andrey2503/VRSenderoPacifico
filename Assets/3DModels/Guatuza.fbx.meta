@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 90304f551ee06ce4a9f4dc82d6691451
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back_face
+    100002: back_jaw
+    100004: face
+    100006: Guatusa1:ojos
+    100008: Guatusa1:pCube41
+    100010: Guatusa1:pSphere2
+    100012: //RootNode
+    100014: head
+    100016: ikHandle1
+    100018: ikHandle2
+    100020: ikHandle3
+    100022: ikHandle4
+    100024: jaw
+    100026: L_ear
+    100028: L_foot1_back
+    100030: L_foot1_front
+    100032: L_foot2_back
+    100034: L_foot2_front
+    100036: L_foot3_back
+    100038: L_leg1_back
+    100040: L_leg1_front
+    100042: L_leg2_back
+    100044: L_leg2_front
+    100046: L_leg3_back
+    100048: L_leg3_front
+    100050: neck
+    100052: nose
+    100054: R_ear
+    100056: R_foot1_back
+    100058: R_foot1_front
+    100060: R_foot2_back
+    100062: R_foot2_front
+    100064: R_foot3_back
+    100066: R_leg1_back
+    100068: R_leg1_front
+    100070: R_leg2_back
+    100072: R_leg2_front
+    100074: R_leg3_back
+    100076: R_leg3_front
+    100078: R_root_ear
+    100080: R_root_ear1
+    100082: root_jaw
+    100084: showlders
+    100086: sipne1
+    100088: spine2
+    100090: spine3
+    100092: spine4
+    100094: tail1
+    100096: tail2
+    100098: tail3
+    400000: back_face
+    400002: back_jaw
+    400004: face
+    400006: Guatusa1:ojos
+    400008: Guatusa1:pCube41
+    400010: Guatusa1:pSphere2
+    400012: //RootNode
+    400014: head
+    400016: ikHandle1
+    400018: ikHandle2
+    400020: ikHandle3
+    400022: ikHandle4
+    400024: jaw
+    400026: L_ear
+    400028: L_foot1_back
+    400030: L_foot1_front
+    400032: L_foot2_back
+    400034: L_foot2_front
+    400036: L_foot3_back
+    400038: L_leg1_back
+    400040: L_leg1_front
+    400042: L_leg2_back
+    400044: L_leg2_front
+    400046: L_leg3_back
+    400048: L_leg3_front
+    400050: neck
+    400052: nose
+    400054: R_ear
+    400056: R_foot1_back
+    400058: R_foot1_front
+    400060: R_foot2_back
+    400062: R_foot2_front
+    400064: R_foot3_back
+    400066: R_leg1_back
+    400068: R_leg1_front
+    400070: R_leg2_back
+    400072: R_leg2_front
+    400074: R_leg3_back
+    400076: R_leg3_front
+    400078: R_root_ear
+    400080: R_root_ear1
+    400082: root_jaw
+    400084: showlders
+    400086: sipne1
+    400088: spine2
+    400090: spine3
+    400092: spine4
+    400094: tail1
+    400096: tail2
+    400098: tail3
+    2100000: Guatusa1_initialShadingGroup1
+    2100002: Guatusa1_lambert2SG1
+    4300000: Guatusa1:pCube41
+    4300002: Guatusa1:ojos
+    4300004: Guatusa1:pSphere2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Guatusa1:ojos
+    13700002: Guatusa1:pCube41
+    13700004: Guatusa1:pSphere2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
