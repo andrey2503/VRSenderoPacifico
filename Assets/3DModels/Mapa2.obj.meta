@@ -1,63 +1,16 @@
 fileFormatVersion: 2
-guid: 5e7ff7933250926478081864dbd2741a
+guid: 584a3686f014de547a3f837b7b7f715a
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: _body
-    100002: _head
-    100004: _neck
-    100006: _peak
-    100008: _spine
-    100010: _tail
-    100012: _tail_1
-    100014: _tail_2
-    100016: _tail_3
-    100018: //RootNode
-    100020: Huaco_UVs_Cut:polySurface1
-    100022: L_foot
-    100024: L_knee
-    100026: L_leg
-    100028: L_wing
-    100030: L_wing_1
-    100032: L_wing_2
-    100034: L_wing_3
-    100036: R_foot
-    100038: R_knee
-    100040: R_leg
-    100042: R_wing
-    100044: R_wing_1
-    100046: R_wing_2
-    100048: R_wing_3
-    400000: _body
-    400002: _head
-    400004: _neck
-    400006: _peak
-    400008: _spine
-    400010: _tail
-    400012: _tail_1
-    400014: _tail_2
-    400016: _tail_3
-    400018: //RootNode
-    400020: Huaco_UVs_Cut:polySurface1
-    400022: L_foot
-    400024: L_knee
-    400026: L_leg
-    400028: L_wing
-    400030: L_wing_1
-    400032: L_wing_2
-    400034: L_wing_3
-    400036: R_foot
-    400038: R_knee
-    400040: R_leg
-    400042: R_wing
-    400044: R_wing_1
-    400046: R_wing_2
-    400048: R_wing_3
-    2100000: lambert1
-    4300000: Huaco_UVs_Cut:polySurface1
-    7400000: Take 001
-    9500000: //RootNode
-    13700000: Huaco_UVs_Cut:polySurface1
+    100000: default
+    100002: //RootNode
+    400000: default
+    400002: //RootNode
+    2100000: defaultMat
+    2300000: default
+    3300000: default
+    4300000: default
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -110,11 +63,11 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
-    normalSmoothAngle: 60
-    normalImportMode: 0
+    normalSmoothAngle: 180
+    normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
@@ -138,7 +91,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

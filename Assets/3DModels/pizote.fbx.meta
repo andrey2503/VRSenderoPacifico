@@ -1,14 +1,103 @@
 fileFormatVersion: 2
-guid: 44090df835e1e264690bae01e3b40000
+guid: 76809b66ba1afb04db279b7427603812
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    400000: //RootNode
-    2100000: lambert1
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: pCube41
+    100000: Head
+    100002: Head2
+    100004: ik_L_back_leg
+    100006: ik_L_front_leg
+    100008: ik_R_back_leg
+    100010: ik_R_front_leg
+    100012: ik_tail
+    100014: Jaw
+    100016: Jaw_end
+    100018: L_back_ankle
+    100020: L_back_foot
+    100022: L_back_knee
+    100024: L_back_leg
+    100026: L_ear
+    100028: L_ear_end
+    100030: L_front_ankle
+    100032: L_front_foot
+    100034: L_front_knee
+    100036: L_front_leg
+    100038: Neck
+    100040: //RootNode
+    100042: pizote_modelo_v6:Pizote_2:pCube41
+    100044: R_back_ankle
+    100046: R_back_foot
+    100048: R_back_knee
+    100050: R_back_leg
+    100052: R_ear
+    100054: R_ear_end
+    100056: R_front_ankle
+    100058: R_front_foot
+    100060: R_front_knee
+    100062: R_front_leg
+    100064: Root
+    100066: Spine1
+    100068: Spine2
+    100070: Tail
+    100072: tail1
+    100074: tail2
+    100076: tail3
+    100078: tail4
+    100080: tail5
+    100082: tail6
+    100084: tail7
+    100086: tail8
+    100088: tail9
+    400000: Head
+    400002: Head2
+    400004: ik_L_back_leg
+    400006: ik_L_front_leg
+    400008: ik_R_back_leg
+    400010: ik_R_front_leg
+    400012: ik_tail
+    400014: Jaw
+    400016: Jaw_end
+    400018: L_back_ankle
+    400020: L_back_foot
+    400022: L_back_knee
+    400024: L_back_leg
+    400026: L_ear
+    400028: L_ear_end
+    400030: L_front_ankle
+    400032: L_front_foot
+    400034: L_front_knee
+    400036: L_front_leg
+    400038: Neck
+    400040: //RootNode
+    400042: pizote_modelo_v6:Pizote_2:pCube41
+    400044: R_back_ankle
+    400046: R_back_foot
+    400048: R_back_knee
+    400050: R_back_leg
+    400052: R_ear
+    400054: R_ear_end
+    400056: R_front_ankle
+    400058: R_front_foot
+    400060: R_front_knee
+    400062: R_front_leg
+    400064: Root
+    400066: Spine1
+    400068: Spine2
+    400070: Tail
+    400072: tail1
+    400074: tail2
+    400076: tail3
+    400078: tail4
+    400080: tail5
+    400082: tail6
+    400084: tail7
+    400086: tail8
+    400088: tail9
+    2100000: piel
+    4300000: pizote_modelo_v6:Pizote_2:pCube41
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pizote_modelo_v6:Pizote_2:pCube41
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -36,11 +125,39 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 81
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 10
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -61,11 +178,11 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
-    normalSmoothAngle: 180
-    normalImportMode: 1
+    normalSmoothAngle: 60
+    normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
@@ -89,7 +206,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

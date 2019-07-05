@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b378ebbf8ca7b674dac19b4d4123821c
+guid: 04b3262c6573a9a4280d79c74eb09d2d
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -47,8 +47,8 @@ ModelImporter:
     100082: R_wing3
     100084: R_wing4
     100086: tail5
-    100088: Zopilote_V1_Base:Zopilote:polySurface1
-    100090: //RootNode
+    100088: //RootNode
+    100090: Zopilote_V1_Base:Zopilote:polySurface1
     400000: _chest
     400002: _face
     400004: _head1
@@ -93,8 +93,8 @@ ModelImporter:
     400082: R_wing3
     400084: R_wing4
     400086: tail5
-    400088: Zopilote_V1_Base:Zopilote:polySurface1
-    400090: //RootNode
+    400088: //RootNode
+    400090: Zopilote_V1_Base:Zopilote:polySurface1
     2100000: lambert1
     4300000: Zopilote_V1_Base:Zopilote:polySurface1
     7400000: Take 001
@@ -127,7 +127,35 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []

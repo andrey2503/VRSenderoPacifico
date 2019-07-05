@@ -29,7 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MiniGames/AR/Scenes/Mapa.unity
     guid: eb9b9150e1fa8834c8a3ff6bdcb77d43
-  - enabled: 1
+  - enabled: 0
     path: Assets/MiniGames/AR/Scenes/ItemTrails.unity
     guid: d1c1266ad777ea7478d77e0a0b70eb53
   - enabled: 1

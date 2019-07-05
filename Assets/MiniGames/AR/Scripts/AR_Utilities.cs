@@ -5,6 +5,6 @@ using UnityEngine;
 public class AR_Utilities : MonoBehaviour {
 
     public void OpenURL() {
-        Application.OpenURL("http://tayassu.net/penitenciaria-ar");
+        Application.OpenURL("http://pacific-app.sanluis.or.cr");
     }
 }

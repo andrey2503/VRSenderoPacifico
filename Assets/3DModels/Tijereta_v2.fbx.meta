@@ -1,16 +1,53 @@
 fileFormatVersion: 2
-guid: 620055c9a3b68964e9e5ffa65898da64
+guid: 2a08561ae7c9b9041935400dfb5ad99c
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: initialShadingGroup_polySurface8
-    100002: //RootNode
-    400000: initialShadingGroup_polySurface8
-    400002: //RootNode
-    2100000: initialShadingGroup_polySurface8Mat
-    2300000: initialShadingGroup_polySurface8
-    3300000: initialShadingGroup_polySurface8
-    4300000: initialShadingGroup_polySurface8
+    100000: L_tail
+    100002: L_tail1
+    100004: L_wing
+    100006: L_wing1
+    100008: L_wing2
+    100010: L_wing3
+    100012: R_tail
+    100014: R_tail1
+    100016: R_wing
+    100018: R_wing1
+    100020: R_wing2
+    100022: R_wing3
+    100024: spine
+    100026: spine1
+    100028: spine2
+    100030: spine3
+    100032: spine4
+    100034: spine5
+    100036: tijeretav1:Tijereta:polySurface1
+    100038: //RootNode
+    400000: L_tail
+    400002: L_tail1
+    400004: L_wing
+    400006: L_wing1
+    400008: L_wing2
+    400010: L_wing3
+    400012: R_tail
+    400014: R_tail1
+    400016: R_wing
+    400018: R_wing1
+    400020: R_wing2
+    400022: R_wing3
+    400024: spine
+    400026: spine1
+    400028: spine2
+    400030: spine3
+    400032: spine4
+    400034: spine5
+    400036: tijeretav1:Tijereta:polySurface1
+    400038: //RootNode
+    2100000: lambert1
+    4300000: tijeretav1:Tijereta:polySurface1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: tijeretav1:Tijereta:polySurface1
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -38,7 +75,35 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -63,8 +128,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -91,7 +156,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

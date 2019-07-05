@@ -18,7 +18,7 @@
         },
         {
             "key": "english",
-            "value": "INGLES"
+            "value": "INGLÉS"
         },
         {
             "key": "spanish",
@@ -123,6 +123,14 @@
         {
             "key": "agouti_text_3",
             "value": "Dieta: Se alimentan de materia vegetal (frutos, semillas), aunque muy raramente pueden intentar probar materia animal."
+        },
+        {
+            "key": "map_info_tex_1",
+            "value": "Kiosco informativo: Aquí puede encontrar información sobre la ruta del sendero y además puede ver los marcadores de realidad aumentada."
+        },
+        {
+            "key": "map_info_tex_2",
+            "value": "Señalización: En estos puntos hay información sobre el nombre del sendero que está recorriendo y un pequeño mapa de la ruta."
         }
     ]
 }

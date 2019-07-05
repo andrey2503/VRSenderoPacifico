@@ -123,6 +123,14 @@
         {
             "key": "agouti_text_3",
             "value": "Diet: They eat plant matter (fruits, seeds), although they can eat small animals."
+        },
+        {
+            "key": "map_info_tex_1",
+            "value": "Information kiosk: Here you can find information about the trail route and you can also see the augmented reality markers."
+        },
+        {
+            "key": "map_info_tex_2",
+            "value": "Signaling: These points shows information about the name of the trail you are in and a small map of the route."
         }
     ]
 }
